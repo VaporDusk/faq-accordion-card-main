@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/VaporDusk/faq-accordion-card-main]
-- Live Site URL: [https://github.com/VaporDusk/faq-accordion-card-main/]
+- Live Site URL: [https://vapordusk.github.io/faq-accordion-card-main/]
 
 ## My process
 
